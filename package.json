@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "commit": "cz",
     "prepare": "husky install"
@@ -48,6 +48,7 @@
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.0",
+    "jest": "^27.4.7",
     "lint-staged": "^12.1.7",
     "mini-css-extract-plugin": "2.4.5",
     "prettier": "2.5.1"
