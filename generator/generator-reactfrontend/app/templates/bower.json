@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "authors": ["Ming"],
+  "moduleType": ["globals"],
+  "description": "",
+  "main": "",
+  "license": "",
+  "homepage": "",
+  "private": true,
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"]
+}
